@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## run application
+
+first run a json server using this command json-server --watch db.json
+ then start a website server using npm start and open in different port 
+
 ## Available Scripts
 
 In the project directory, you can run:
